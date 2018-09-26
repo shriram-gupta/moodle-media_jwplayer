@@ -149,7 +149,7 @@ data-jwplayer-subtitles="English:
 http://someurl.org/tracks/functional.txt"
 data-jwplayer-description="some description">test subtitles</a>`
 
-### Default player dimentions
+### Default player dimensions
 
 The player default width is defined in Manage media players page. If
 responsive mode is enabled in plugin configuration, player will expand. 
